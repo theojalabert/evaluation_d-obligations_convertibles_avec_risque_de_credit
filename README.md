@@ -1,6 +1,7 @@
 # Evaluation d'obligations convertibles avec risque de crédit
 
 **Résumé**
+
 Ce projet de recherche a pour objectif l’évaluation d’obligations convertibles basée sur les publications de Ayache, Forsyth et Vertzal & Milanov et Kounchev, il s'inscrit dans le cadre d'un projet académique en risque de crédit, cours dispensée par Xiao Ying professeur à l'Institut de Science Financière et d'Assurances.
 
 Les obligations convertibles sont un instrument hybride disponible sur les marchés financiers. L’obligation convertible est un instrument similaire à une obligation normale, à ceci près que le détenteur a la possibilité de convertir l’obligation en un nombre spécifié d’actions.
